@@ -1,0 +1,86 @@
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+    var anchorSlot = googletag.defineOutOfPageSlot('/23350225729/ca-pub-3284064188904906-tag/lv_techsilver.shop_anchor_10', googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR);
+    if (anchorSlot) anchorSlot.addService(googletag.pubads());
+    googletag.setConfig({singleRequest: true});
+    googletag.enableServices();
+    if (anchorSlot) googletag.display(anchorSlot);
+});
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+    var intSlot = googletag.defineOutOfPageSlot('/23350225729/ca-pub-3284064188904906-tag/lv_techsilver.shop_int_10', googletag.enums.OutOfPageFormat.INTERSTITIAL);
+    if (intSlot) intSlot.addService(googletag.pubads());
+    googletag.enableServices();
+    if (intSlot) googletag.display(intSlot);
+});
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/23350225729/ca-pub-3284064188904906-tag/lv_techsilver.shop_336x280_10', [[300, 250], [336, 280]], 'div-gpt-ad-1779350318706-0').addService(googletag.pubads());
+    googletag.setConfig({singleRequest: true});
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /23350225729/ca-pub-3284064188904906-tag/lv_techsilver.shop_336x280_10 -->
+<div id='div-gpt-ad-1779350318706-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1779350318706-0'); });
+  </script>
+</div>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+    var anchorSlot = googletag.defineOutOfPageSlot('/23350225729/ca-pub-3284064188904906-tag/lv_game.techsilver.shop_anchor_10', googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR);
+    if (anchorSlot) anchorSlot.addService(googletag.pubads());
+    googletag.setConfig({singleRequest: true});
+    googletag.enableServices();
+    if (anchorSlot) googletag.display(anchorSlot);
+});
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+window.googletag = window.googletag || {cmd: []};
+googletag.cmd.push(function() {
+    var intSlot = googletag.defineOutOfPageSlot('/23350225729/ca-pub-3284064188904906-tag/lv_game.techsilver.shop_int_10', googletag.enums.OutOfPageFormat.INTERSTITIAL);
+    if (intSlot) intSlot.addService(googletag.pubads());
+    googletag.enableServices();
+    if (intSlot) googletag.display(intSlot);
+});
+</script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/23350225729/ca-pub-3284064188904906-tag/lv_game.techsilver.shop_336x280_10', [[300, 250], [336, 280]], 'div-gpt-ad-1779350405067-0').addService(googletag.pubads());
+    googletag.setConfig({singleRequest: true});
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+<!-- /23350225729/ca-pub-3284064188904906-tag/lv_game.techsilver.shop_336x280_10 -->
+<div id='div-gpt-ad-1779350405067-0'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1779350405067-0'); });
+  </script>
+</div>
+
